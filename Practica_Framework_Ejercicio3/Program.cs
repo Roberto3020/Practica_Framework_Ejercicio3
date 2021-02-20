@@ -7,7 +7,7 @@ namespace Practica_Framework_Ejercicio3
         static void Main(string[] args)
         {
             String nombreCliente;
-            double numeroCuenta = 0;
+            double numeroCuenta =0;
             double saldo = 400000;
             double consignaciones = 0;
             double retirar = 0;
